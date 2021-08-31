@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+#SSAUTH_USER_MODEL = "ElsocWebsite.User" 
 
 # Application definition
 
